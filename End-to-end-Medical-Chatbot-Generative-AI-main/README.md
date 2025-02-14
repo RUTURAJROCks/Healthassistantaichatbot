@@ -1,4 +1,4 @@
-# End-to-end-Medical-Chatbot-Generative-AI
+# AI Health assistant Chatbot
 
 
 # How to run?
